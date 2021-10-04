@@ -11,6 +11,6 @@ collections:
     files:
       - label: "Home Page"
         name: "home"
-        file: "site/data/home.json"
+        file: "_data/home.json"
         fields:
           - { label: Title, name: bannerTitle, widget: string }
