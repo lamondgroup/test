@@ -13,4 +13,4 @@ collections:
         name: "home"
         file: "_data/home.json"
         fields:
-          - { label: Title, name: bannerTitle, widget: string }
+          - { label: Title, name: headerTitle, widget: string }
